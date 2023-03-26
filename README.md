@@ -5,6 +5,7 @@ A simple notes app built on flask. You can create an account and then access the
 
 ## Features
 - User can create notes.
+- User can read notes.
 - User can delete notes.
 
 ## Requirements
